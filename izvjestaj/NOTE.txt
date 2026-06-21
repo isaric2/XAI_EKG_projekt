@@ -1,0 +1,3 @@
+Samostalno sam uradila dobijanje spetograma iz .mat signala. Pored toga sammostalno, bez pomoći AI sam istražila, samostalo pokušala shvatiti koncepte i samostalno napisati pododjeljke u izvještaju za Grad - CAM i LIME metodu.
+
+Korištena literatura je navedana u izvještaju u odjeljku Reference.

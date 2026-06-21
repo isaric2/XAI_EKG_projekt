@@ -36,6 +36,10 @@ xai-ekg-projekat/
 
 │   └── UDOS_midterm3_IrmaSaric.pdf
 
+│   └── XAI_prezentacija.pptx
+
+│   └── NOTE.txt
+
 └── .gitignore
 
 ## Instalacija
